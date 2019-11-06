@@ -1,0 +1,1 @@
+<annotation><folder>annots</folder><filename>good/525.jpg</filename><size><width>247</width><height>207</height><depth>3</depth></size><segmented>0</segmented><object><name>class</name><pose>Unspecified</pose><truncated>0</truncated><occluded>0</occluded><difficult>0</difficult><bndbox><xmin>207</xmin><ymin>454</ymin><xmax>247</xmax><ymax>454</ymax></bndbox></object></annotation>
